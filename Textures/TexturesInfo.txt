@@ -1,0 +1,3 @@
+Put image files here (ideally).
+
+Access with "ImgLoad('<filename+extension>')"
